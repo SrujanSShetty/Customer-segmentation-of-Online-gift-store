@@ -21,6 +21,7 @@ Customer segmentation involves analyzing customer interactions to uncover meanin
    - Import the Online Retail dataset for analysis.
 3. **Exploratory Data Analysis (EDA)**
    - **3.1 Take a First Look at the Data**: Initial examination of the dataset to understand its structure and contents.
+   - ![Exploratory Data Analysis](https://github.com/user-attachments/assets/4344c8ac-2083-4688-b063-20fdbf14cc30)
 4. **Customer Segmentation**
    - **4.1 RFM Model for Customer Value**:
      - **4.1.1 Recency**: Measure the time since the last purchase.
@@ -31,9 +32,11 @@ Customer segmentation involves analyzing customer interactions to uncover meanin
      - **4.3.1 K-Means Clustering**:
        - **4.3.1.1 K-means++**: Initialization method to improve clustering results.
      - **4.3.2 The Elbow Method**: Determine the optimal number of clusters.
+      ![Model Selection]![Model selection](https://github.com/user-attachments/assets/12ab1974-5347-4577-a963-cbd07ae01a73)
      - **4.3.3 Silhouette Analysis on K-Means Clustering**: Evaluate cluster quality.
      - **4.3.4 Cluster Centers**: Analyze the centroids of the clusters.
      - **4.3.5 Cluster Insights**: Interpret the characteristics of each cluster.
+      - ![Cluster Insights]![Overall Cluster Details](https://github.com/user-attachments/assets/c8576419-3c8e-4452-acfe-a1d7271ec5a8)
      - **4.3.6 Drill Down Clusters**: Detailed analysis of individual clusters.
 
 ## Team
